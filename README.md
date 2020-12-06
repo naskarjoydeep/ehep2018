@@ -4,3 +4,5 @@
 #The branch pythia8-mc is analysis done using MC samples generated using pythia-8.
 #The branch hep-tutorial contains some of my modifications to pre-existing codes in hep-tutorial of CMS.
 #An additional branch named pythia-codes contain codes to study MC of some relevant processes.
+
+#AllAnalysis.c in cms-data-mc branch is a stand-alone program for analysis of kinematical quantities.
